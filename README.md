@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=noah0217&&show_icons=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah0217&langs_count=8)](https://github.com/noah0217/github-readme-stats">
 
-<h2>Languages & Tools<h2>
+<h2>👨‍💻Languages & Tools🛠️<h2>
   
 - <img height="32" width="32" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
   
