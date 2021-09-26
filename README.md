@@ -5,7 +5,7 @@
 - 👨‍💻 I'm currently working on University Of Utah Coding BootCamp
 - 🌵 I'm currently learning Node.Js, Express.Js, and MySQL
 - 📍 Salt Lake City, Utah
-- 🥅 My goal is to get a job in software development
+- 🥅 My goal is to get a job in software development and continue learning
 - ⚡ Fun fact I enjoy watching soccer games
   
 <h2>📈GitHub Stats📊<h2>
