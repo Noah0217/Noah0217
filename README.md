@@ -3,7 +3,7 @@
 <h3>A little bit about me<h3>
   
 - 👨‍💻 I'm currently working on University Of Utah Coding BootCamp
-- 🌵 I'm currently learning Node.JS, and React.JS
+- 🌵 I'm currently learning MERN
 - 📍 Salt Lake City, Utah
 - 🥅 My goal is to get a job in software development and continue learning
 - ⚡ Fun fact I enjoy watching soccer games
