@@ -3,7 +3,7 @@
 <h3>A little bit about me<h3>
   
 - 👨‍💻 I'm currently working on side projects.
-- 🌵 I'm currently learning MERN
+- 🌵 I'm currently learning MERN Stack.
 - 📍 Salt Lake City, Utah
 - 🥅 My goal is to get a job in software development and continue learning.
 - ⚡ Fun fact I enjoy watching soccer games, playing video games, and building PC's.
