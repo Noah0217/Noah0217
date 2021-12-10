@@ -1,6 +1,6 @@
 <h2>Hi there my name is Noah Mejia 👋<h2>
   
-<h3>A little bit about me<h3>
+<h2>A little bit about me<h2>
   
 - 👨‍💻 I'm currently working on side projects.
 - 🌵 I'm currently learning MERN Stack.
