@@ -2,7 +2,7 @@
   
 <h2>A little bit about me<h2>
   
-- 👨‍💻 I'm currently working on side projects./
+- 👨‍💻 I'm currently working on side projects.
 - 🌵 I'm currently learning data structures & algorithms.
 - 📍 Salt Lake City, UT
 - 🥅 My goal is to get a job in software development, and continue learning.
