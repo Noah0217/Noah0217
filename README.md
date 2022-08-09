@@ -20,4 +20,4 @@
 
 <a href="https://docs.google.com/document/d/1fKAy3e2gS0TpRoYT0uMgJAchfg5Se5CD212T1RcVp5c/edit?usp=sharing" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/resume-icon-png/resume-icon-png-9.png" alt="Noah Mejias Resume" width="75" height="75"/> </a>
 
-<a href="https://react-portfolio-noah.herokuapp.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="Noah Mejias Portfolio" width="70" height="70"/> </a>
+<a href="https://react-portfolio-noah.herokuapp.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="Noah Mejias Portfolio" width="75" height="75"/> </a>
