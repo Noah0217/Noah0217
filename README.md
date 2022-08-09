@@ -1,5 +1,8 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=Noah0217.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/Noah0217?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+
 <h2>Hi there my name is Noah Mejia 👋<h2>
-  
+
 <h2>A little bit about me<h2>
   
 - 👨‍💻 I'm currently working on side projects.
@@ -29,4 +32,12 @@
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:15px">
 <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" height="50" style="vertical-align:top; margin:15px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="Typescript" height="50" style="vertical-align:top; margin:15px">
+
+
+<div id="header" align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahm0217&cover_image=true&theme=natemoo-re&bar_color=4687dd&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 
