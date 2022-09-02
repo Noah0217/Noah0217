@@ -38,7 +38,7 @@
 
 <div id="header" align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahm0217&cover_image=true&theme=natemoo-re&bar_color=4687dd&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahm0217&cover_image=true&theme=natemoo-re&bar_color=4687dd&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)-->
 
 </div>
 
