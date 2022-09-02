@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noah0217.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/Noah0217?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
-<h2>Hi there my name is Noah Mejiakj 👋<h2>
+<h2>Hi there my name is Noah Mejia 👋<h2>
 
 <h2>A little bit about me<h2>
   
