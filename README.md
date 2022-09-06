@@ -27,7 +27,7 @@
 
 <a href="https://react-portfolio-noah.herokuapp.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="Noah Mejias Portfolio" width="75" height="75"/> </a>
 
-<h2>Top Languages and Tools<h2>
+<h2>Most Used Languages and Tools<h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:15px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" style="vertical-align:top; margin:15px">
