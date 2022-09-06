@@ -11,7 +11,7 @@
 - 🌵 I'm currently learning Typescript.
 -  📍 Salt Lake City, UT
 - 🥅 My goal is to get a job in Front-End Development.
-- ⚡ Fun fact I enjoy watching soccer, playing video games, and building PC's.
+- ⚡ Interests Video Games, Soccer, Computers, Aerospace
   
 <h2>GitHub Stats<h2>
 <img src="https://github-readme-stats.vercel.app/api?username=noah0217&&show_icons=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
