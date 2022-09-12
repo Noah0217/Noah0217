@@ -23,7 +23,7 @@
 
 <a href="https://www.linkedin.com/in/noah-mejia-b05952212/" target="_blank"> <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" alt="Noah Mejias LinkedIn" width="75" height="75"/> </a>
 
-<a href="https://docs.google.com/document/d/1fKAy3e2gS0TpRoYT0uMgJAchfg5Se5CD212T1RcVp5c/edit?usp=sharing" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/resume-icon-png/resume-icon-png-9.png" alt="Noah Mejias Resume" width="75" height="75"/> </a>
+<a href="https://docs.google.com/document/d/1fKAy3e2gS0TpRoYT0uMgJAchfg5Se5CD212T1RcVp5c/edit?usp=sharing" target="_blank"> <img src="https://www.iconpacks.net/icons/2/free-file-icon-1453-thumb.png" alt="Noah Mejias Resume" width="75" height="75"/> </a>
 
 <a href="https://react-portfolio-noah.herokuapp.com/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="Noah Mejias Portfolio" width="75" height="75"/> </a>
 
