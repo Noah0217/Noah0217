@@ -7,7 +7,7 @@
 
 <h2>A little bit about me<h2>
   
-- 👨‍💻 I'm currently working on side projects.
+- 👨‍💻 I'm currently working on side projects
 - 🌵 I'm currently learning Typescript.
 - ‎ 📍 Salt Lake City, UT
 - 🥅 My goal is to get a job in Front-End Development.
