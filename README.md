@@ -10,7 +10,7 @@
 - 👨‍💻 I'm currently working on side projects.
 - 🌵 I'm currently learning Typescript.
 - ‎ 📍 Salt Lake City, UT.
-- 🥅 My goal is to get a job in Front-End Development.
+- 🥅 My goal is to get a job in Front End Development.
 - ⚡ Some of my interests Video Games, Soccer, Computers, Aerospace
   
 <h2>GitHub Stats<h2>
