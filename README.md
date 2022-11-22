@@ -38,6 +38,7 @@
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:15px">
 <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" height="50" style="vertical-align:top; margin:15px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="Typescript" height="50" style="vertical-align:top; margin:15px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="60" style="vertical-align:top; margin:5px">
 
 
 <div id="header" align="center">
