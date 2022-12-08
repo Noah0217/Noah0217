@@ -19,9 +19,9 @@
 <h2>Certificates & Achievements<h2>
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/47bf9c4f-9a39-4cb3-9b19-104adef581d8"><img src="https://camo.githubusercontent.com/5e5158f1d34f5d0116f80cd7dfe34f9e40a8fbf74ec3d9d15c5df0a763f740d0/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f323030783230302f696d616765732f63346265656466332d616634632d343035642d383637312d3461316562643730666532342f62616467652d636f64696e672d626f6f7463616d702d7472696c6f67792e706e67" alt=" Noah Mejia's Full-Stack Certificate"></a>
-<img src="https://user-images.githubusercontent.com/84366215/191164557-3903ff42-15bd-42c2-9b0c-57eae9773e16.png" alt="Award 1" height="150" style="vertical-align:top; margin:150px">
-<img src="https://user-images.githubusercontent.com/84366215/191165356-9aadbaa6-6665-42df-a7ce-644fba0263a5.png" alt="Award 2" height="150" style="vertical-align:top; margin:175px">
-<img src="https://user-images.githubusercontent.com/84366215/191165416-1a87c62d-d197-4dc1-a75b-098f994734c4.png" alt="Award 3" height="150" style="vertical-align:top; margin:150px">
+<img src="https://user-images.githubusercontent.com/84366215/191164557-3903ff42-15bd-42c2-9b0c-57eae9773e16.png" alt="Award 1" height="150" style="vertical-align:top; margin:25px">
+<img src="https://user-images.githubusercontent.com/84366215/191165356-9aadbaa6-6665-42df-a7ce-644fba0263a5.png" alt="Award 2" height="150" style="vertical-align:top; margin:25px">
+<img src="https://user-images.githubusercontent.com/84366215/191165416-1a87c62d-d197-4dc1-a75b-098f994734c4.png" alt="Award 3" height="150" style="vertical-align:top; margin:25px">
 
 <h2 align="left">Links<h2>
 
@@ -33,13 +33,13 @@
 
 <h2>Most Used Languages And Tools<h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:15px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" style="vertical-align:top; margin:15px">
-<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:15px">
-<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" height="50" style="vertical-align:top; margin:15px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="Typescript" height="50" style="vertical-align:top; margin:15px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/888px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="45" style="vertical-align:top; margin:15px">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="55" style="vertical-align:top; margin:15px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:2px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" style="vertical-align:top; margin:2px">
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:2px">
+<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" height="50" style="vertical-align:top; margin:2px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="Typescript" height="50" style="vertical-align:top; margin:2px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/888px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="45" style="vertical-align:top; margin:2px">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="55" style="vertical-align:top; margin:2px">
 
 
 <div id="header" align="center">
