@@ -10,7 +10,7 @@
 - 👨‍💻 I'm currently interning at DoughRise.
 - 🌵 I'm currently learning Nuxt.js.
 - ⛰️ Salt Lake City, Utah
-- 🥅 My goal is to get a job in Front End Development.
+<!--- 🥅 My goal is to get a job in Front End Development.-->
 - ⚡ Some of my interests Aerospace, Soccer, Computers, Technology.
   
 <h2>GitHub Stats<h2>
