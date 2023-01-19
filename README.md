@@ -14,7 +14,7 @@
 - ⚡ Some of my interests Aerospace, Soccer, Computers, Technology.
   
 <h2>GitHub Stats<h2>
-<img src="https://github-readme-stats.vercel.app/api?username=noah0217&&show_icons=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=noah0217&count_private=true&show_icons=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
 
 <h2>Certificates & Achievements<h2>
 <p align="left">
