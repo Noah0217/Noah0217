@@ -10,7 +10,7 @@
 - 👨‍💻 I'm currently working at DoughRise.
 - 🌵 I'm currently learning Nuxt.js.
 - ⛰️ Salt Lake City, Utah
-- ⚡ Some of my interests Aerospace, Soccer, Technology.
+- ⚡ Some of my interests Aerospace, Soccer, Technology./
 <!--- 🥅 My goal is to get a job in Front End Development.-->
   
 <h2>GitHub Stats<h2>
