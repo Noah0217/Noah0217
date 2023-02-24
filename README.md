@@ -8,7 +8,7 @@
 <h2>A little bit about me<h2>
   
 - 👨‍💻 I'm currently working at DoughRise.
-- 🌵 I'm currently learning Nuxt.js. vuex
+- 🌵 I'm currently learning Nuxt.js.
 - ⛰️ Salt Lake City, Utah
 - ⚡ Some of my interests Aerospace, Soccer, Technology.
 <!--- 🥅 My goal is to get a job in Front End Development.-->
