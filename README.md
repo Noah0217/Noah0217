@@ -7,7 +7,7 @@
 
 <h2>A little bit about me<h2>
   
-- 👨‍💻 I'm currently working at DoughRise.
+- 👨‍💻 I'm currently working at DoughRise as a Full Stack Dev.
 - 🌵 I'm currently learning Nuxt.js.
 - ⛰️ Salt Lake City, Utah
 - ⚡ Some of my interests Aerospace, Soccer, Technology.
