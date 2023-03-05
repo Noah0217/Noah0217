@@ -9,7 +9,7 @@
   
 - 👨‍💻 I'm currently working at DoughRise as a Full-Stack Dev.
 - 🌵 I'm currently learning Nuxt.js.
-- ⛰️ Salt Lake City, Utah
+- ⛰️ Salt Lake City, Utah, USA
 - ⚡ Some of my interests Aerospace, Soccer, Technology, Video Games.
 <!--- 🥅 My goal is to get a job in Front End Development.-->
   
