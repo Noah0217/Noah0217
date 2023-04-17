@@ -42,7 +42,6 @@
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:2px">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="60" style="vertical-align:top; margin-right: 15px">
 
-  
 <div id="header" align="center">
 
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=noahm0217&cover_image=true&theme=natemoo-re&bar_color=4687dd&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)-->
