@@ -18,7 +18,7 @@
 
 <h2>Certificates & Achievements<h2>
 <p align="left">
-<a href="https://www.credly.com/earner/earned/badge/47bf9c4f-9a39-4cb3-9b19-104adef581d8"><img src="https://images.credly.com/size/215x215/images/b46a4322-026c-4a9f-bf6b-896062acc22c/image.png" alt=" Noah Mejia's Full-Stack Certificate"></a>
+<a href="https://www.credly.com/earner/earned/badge/47bf9c4f-9a39-4cb3-9b19-104adef581d8"><img src="https://images.credly.com/size/200x200/images/b46a4322-026c-4a9f-bf6b-896062acc22c/image.png" alt=" Noah Mejia's Full-Stack Certificate"></a>
 <img src="https://user-images.githubusercontent.com/84366215/191164557-3903ff42-15bd-42c2-9b0c-57eae9773e16.png" alt="Award 1" height="150" style="vertical-align:top; margin:5px">
 <img src="https://user-images.githubusercontent.com/84366215/191165356-9aadbaa6-6665-42df-a7ce-644fba0263a5.png" alt="Award 2" height="150" style="vertical-align:top; margin:5px">
 <img src="https://user-images.githubusercontent.com/84366215/191165416-1a87c62d-d197-4dc1-a75b-098f994734c4.png" alt="Award 3" height="150" style="vertical-align:top; margin:5px">
