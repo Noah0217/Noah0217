@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Front-End+Developer" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Front-End+Developer" alt="Typing SVG"/></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noah0217.CharalambosIoannou)
 [![Github](https://img.shields.io/github/followers/Noah0217?label=Follow&style=social)](https://github.com/CharalambosIoannou)
