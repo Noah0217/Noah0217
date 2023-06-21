@@ -31,7 +31,7 @@
 
 <a href="https://noah-mejia-portfolio.netlify.app" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/72/72626.png" alt="Noah Mejias Portfolio" width="75" height="75"/> </a>
 
-<h2>Most Used Languages And Tools<h2>
+<h2>My Favorite Languages And Tools<h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:2px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" style="vertical-align:top; margin:2px">
