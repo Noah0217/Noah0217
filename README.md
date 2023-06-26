@@ -11,7 +11,7 @@
 - 🌵 I'm currently learning Nuxt.js
 - ⛰️ Salt Lake City, Utah
 - ⚡ Some of my interests are Aerospace, Soccer, Technology, and Video Games.
-<!--- 🥅 My goal is to get a job in Front End Development.-->
+<!--- 🥅 My goal is to get a job in Front End Development.-->.
   
 <h2>GitHub Stats<h2>
 <img src="https://github-readme-stats.vercel.app/api?username=noah0217&count_private=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
