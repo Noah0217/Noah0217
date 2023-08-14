@@ -40,7 +40,7 @@
 <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" height="50" style="vertical-align:top; margin:2px">
   <img src="https://avatars.githubusercontent.com/u/1335026?s=280&v=4" alt="Firebase" height="50" style="vertical-align:top; margin:0px">
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:2px">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="60" style="vertical-align:top; margin-right: 15px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin-right: 15px;">
 
 <div id="header" align="center">
 
