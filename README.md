@@ -8,9 +8,9 @@
 <h2>A little bit about me<h2>
   
 - 👨‍💻 I'm currently working at Budgetwise as a Full-Stack Developer.
-<!--- 🌵 I'm currently learning Nuxt.js-->
 - ⛰️ Salt Lake City, Utah
 - ⚡ Some of my interests are Aerospace, Soccer, Technology, and Video Games.
+<!--- 🌵 I'm currently learning Nuxt.js-->
 <!--- 🥅 My goal is to get a job in Front End Development.-->
   
 <h2>GitHub Stats<h2>
