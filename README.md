@@ -13,7 +13,7 @@
 <!--- 🌵 I'm currently learning Nuxt.js-->
 <!--- 🥅 My goal is to get a job in Front End Development.-->
   
-<h2>GitHub Stats<h2>test
+<h2>GitHub Stats<h2>
 <img src="https://github-readme-stats.vercel.app/api?username=noah0217&count_private=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
 
 <h2>Certificates & Achievements<h2>
