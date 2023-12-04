@@ -16,7 +16,7 @@
 <h2>GitHub Stats<h2>
 <img src="https://github-readme-stats.vercel.app/api?username=noah0217&count_private=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
 
-<h2>Certificates & Achievements<h2>
+<h2>Certificates & Achievements<h2>s
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/47bf9c4f-9a39-4cb3-9b19-104adef581d8"><img src="https://images.credly.com/size/200x200/images/b46a4322-026c-4a9f-bf6b-896062acc22c/image.png" alt=" Noah Mejia's Full-Stack Certificate"></a>
 <img src="https://user-images.githubusercontent.com/84366215/191164557-3903ff42-15bd-42c2-9b0c-57eae9773e16.png" alt="Award 1" height="150" style="vertical-align:top; margin:5px">
