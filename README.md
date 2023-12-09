@@ -11,7 +11,7 @@
 - <img src="https://github.com/Noah0217/Noah0217/assets/84366215/63346999-65c6-45ed-844d-b76cb6eb0149" width="32" height="32"> Salt Lake City, Utah 
 - <img src="https://cdn-icons-png.flaticon.com/128/2646/2646860.png" width="32" height="32"> Some of my interests are Aerospace, Photography, Soccer, and Video Games.
 <!--- 🌵 I'm currently learning Nuxt.js-->
-<!--- 🥅 My goal is to get a job in Front End Development.-->l
+<!--- 🥅 My goal is to get a job in Front End Development.-->
   
 <h2>GitHub Stats<h2>
 <img src="https://github-readme-stats.vercel.app/api?username=noah0217&count_private=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
