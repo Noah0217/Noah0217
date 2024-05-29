@@ -37,7 +37,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="50" style="vertical-align:top; margin:2px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/888px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="45" style="vertical-align:top; margin:2px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="Typescript" height="50" style="vertical-align:top; margin:2px">
-<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="Next.js" height="50" style="vertical-align:top; margin:2px">
 <img src="https://avatars.githubusercontent.com/u/1335026?s=280&v=4" alt="Firebase" height="50" style="vertical-align:top; margin:0px">
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" height="50" style="vertical-align:top; margin:2px">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="37" style="vertical-align:top; margin-right: 15px;">
